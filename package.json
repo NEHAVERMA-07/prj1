@@ -1,0 +1,28 @@
+{
+  "name": "mygithubaction",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"No tests yet\" && exit 0",
+    "build": "echo \"Static site, nothing to build\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NEHAVERMA-07/prj1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NEHAVERMA-07/prj1/issues"
+  },
+  "homepage": "https://github.com/NEHAVERMA-07/prj1#readme",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.27.0",
+    "eslint": "^9.27.0",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.1.0"
+  }
+}
